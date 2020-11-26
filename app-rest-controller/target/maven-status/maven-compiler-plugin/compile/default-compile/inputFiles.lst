@@ -1,0 +1,6 @@
+/Users/leewow/code/github/data2/app-manager/app-rest-controller/src/main/java/com/data2/manager/app/aop/RestControllerAop.java
+/Users/leewow/code/github/data2/app-manager/app-rest-controller/src/main/java/com/data2/manager/app/controller/WelcomeController.java
+/Users/leewow/code/github/data2/app-manager/app-rest-controller/src/main/java/com/data2/manager/app/SwaggerConfig.java
+/Users/leewow/code/github/data2/app-manager/app-rest-controller/src/main/java/com/data2/manager/app/aop/RequestContext.java
+/Users/leewow/code/github/data2/app-manager/app-rest-controller/src/main/java/com/data2/manager/app/Bootstrap.java
+/Users/leewow/code/github/data2/app-manager/app-rest-controller/src/main/java/com/data2/manager/app/aop/HeaderResolveInterceptor.java

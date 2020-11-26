@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: app
+server:
+  port: 8080
+  servlet:
+    context-path: /app
+nacos:
+  config:
+    enabled: false
+
+
+
